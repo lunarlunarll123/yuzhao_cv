@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Home Page of Yu Zhao</title>
+</head>
+
+<style>
+H1 {
+	FONT-SIZE: 28px; FONT-FAMILY: Arial, helvetica, sans-serif
+}
+H2 {
+	FONT-SIZE: 18px; BACKGROUND: #cbcba9; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif
+}
+H3 {
+	FONT-SIZE: 18px; BACKGROUND: #ddeef0; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif
+}
+H4 {
+	FONT-SIZE: 12px; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif; top-padding: .2em
+}
+
+H4 {
+	MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%
+}
+H3 {
+	MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%
+}
+H2 {
+	MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%
+}
+H1 {
+	MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%
+}
+
+li {
+font-weight: normal;
+}
+
+.style42 {
+	font-size: 17px;
+	
+}
+
+.style35 {
+	color: FF0000;
+	font-weight: bold;
+}
+</style>
+
+
+
+<!--BODY BGCOLOR="#88CCCC"-->
+<body bgcolor="#FFFFFF">
+
+<table><tbody><tr>
+<td width="45%">
+<img src="./Home Page of yuzhao_files/photo.jpg" align="left" alt="Yu Zhao" width="150" height="190">
+</td>
+<td>
+<h1>Yu Zhao</h1>
+<span class="style42"> Ph.D. Candidate <br>
+<a href="http://www.cs.uky.edu/">Department of Computer Science</a> <br>
+<a href="http://www.uky.edu/">University of Kentucky</a> <br> 
+Lexington, KY 40506<br><br>
+Email: yzh355 AT g.uky.edu <br>
+Phone: (859)693-2220<br>
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+<h2>About Me</h2>
+
+
+<p ><span class="style42"> 
+My research interests include <b>Software Testing</b>, Natural Language Processing, Deep/Reinforcement Learning, Computer Networks, Wireless Sensor Network, Indoor localization. 
+</p>
+
+<p><span class="style42"> 
+I am under the supervision of Dr. <a href="http://cs.uky.edu/~tyu/">Tingting Yu</a> and Dr. <a href="https://users.soe.ucsc.edu/~qian/">Chen Qian</a>. Here is my CV. [<a href="./Home Page of yuzhao_files/cv.pdf">pdf</a>]
+</p>
+
+<h2>Conference Publications</h2>
+<p class="style3"><span class="style35">[ICSE'19] </span> <b>Yu Zhao</b>, Tingting Yu, Ting Su, Yang Liu, Wei Zheng, Jingzhi Zhang, William G.J. Halfond,
+ <a href="https://dl.acm.org/doi/10.1109/ICSE.2019.00030"> 
+ ReCDroid: Automatically Reproducing Android Application Crashes from Bug Reports,</a>
+ In IEEE/ACM International Conference on Software Software Engineering 2019.</span>[<a href="./Home Page of yuzhao_files/recdroid.pdf">pdf</a>] </p>
+
+<p class="style3"><span class="style35">[ICSR'19] </span> <b>Yu Zhao</b>, Kye Miller, Tingting Yu, Wei Zheng, Minchao Pu, 
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-22888-0_8">
+Automatically Extracting Bug Reproducing Steps from Android Bug Reports,</a>
+In IEEE/ACM International Conference on Software Software Engineering  2019.</span>[<a href="./Home Page of yuzhao_files/ICSR.pdf">pdf</a>] </p>
+
+<p class="style3"><span class="style35">[ICDCS'17] </span> <b>Yu Zhao</b>, Huazhe Wang, Xin Li, Tingting Yu, Chen Qian, 
+<a href="https://ieeexplore.ieee.org/document/7979951">
+Pronto: Efficient Test Packet Generation for Dynamic Network Data Planes,</a>
+In IEEE International Conference on Distributed Computing Systems, 2017.</span>[<a href="./Home Page of yuzhao_files/Pronto2017.pdf">pdf</a>] </p>
+
+<p class="style3"><span class="style35">[ICCCN'17] </span> <b>Yu Zhao</b>, Tingting Yu, 
+<a href="https://ieeexplore.ieee.org/document/8038454">
+Channel Quality Correlation-based Channel Probing in Multiple Channels,</a>
+In IEEE International Conference on Computer Communications and Networks, 2017.</span>[<a href="./Home Page of yuzhao_files/ICCCN.pdf">pdf</a>] </p>
+
+<p class="style3"><span class="style35">[CyberC'15] </span> Yuanyuan Wu, <b>Yu Zhao</b>, Yunhuai Liu, 
+<a href="https://ieeexplore.ieee.org/document/7307861">
+Channel Adjustment for Performance Enhancement in Wireless Networks,</a>
+In IEEE International Conference on Cyber-enabled distributed computing, 2015.</span>[<a href="./Home Page of yuzhao_files/cyberc.pdf">pdf</a>] </p>
+
+<p class="style3"><span class="style35">[ICALIP'14] </span> <b>Yu Zhao</b>, Yuanyuan Wu, Jiang Wang, Xuexia Zhong, Lin Mei,
+<a href="https://ieeexplore.ieee.org/document/7009857">
+ Wavelet Transform for Spectrum Sensing in Cognitive Radio Networks,</a>
+In IEEE International Conference on Audio, Language and Image Processing, 2014. </p>
+
+<p class="style3"><span class="style35">[INFOCOM'13] </span> <b>Yu Zhao</b>, Yunhuai Liu, Tian He, Athanasios V. Vasilakosy, Chuanping Hu,
+<a href="https://ieeexplore.ieee.org/abstract/document/6566824">
+FREDI: Robust RSS-based Ranging with Multipath Effect and Radio Interference,</a>
+In IEEE International Conference on Computer Communications, 2013.
+</span>[<a href="./Home Page of yuzhao_files/Fredi.pdf">pdf</a>] </p>
+
+
+<h2>Journal Publications</h2>
+
+<p class="style3"> </span> <b>Yu Zhao</b>, Yunhuai Liu, Tingting Yu, Chen Qian, Tian He, 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1389128618310223">
+FREDI: Robust RSS-based Ranging with Multipath Effect and Radio Interference,</a>
+In Computer Networks, 2018.</span>[<a href="./Home Page of yuzhao_files/networks.pdf">pdf</a>] </p>
+
+<p class="style3"> </span> Jie Dai, <b>Yu Zhao</b>, Yunhuai Liu, Li Qi, Chuanping Hu,
+<a href="https://link.springer.com/article/10.1007/s11227-014-1231-9">
+Cloud-assisted Analysis for Energy Efficiency in Intelligent Video Systems,</a>
+Jie Dai, Yu Zhao, Yunhuai Liu, Li Qi, Chuanping Hu.
+In Journal of Supercomputing, 2014, 
+
+<h2>Workshop Publications</h2>
+
+<p class="style3"> </span> <b>Yu Zhao</b>, Tarannum Shaila Zaman, Tingting Yu, Jane Huffman Haye, 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1389128618310223">
+Using Deep Learning to Improve the Accuracy of Requirements to Code Traceability,</a>
+In Grand Challenges in Traceability (GCT), Abstract, 2017.</span>[<a href="./Home Page of yuzhao_files/workshop.pdf">pdf</a>] </p>
+
+<h2>Patents</h2>
+<p>
+<b>Yu Zhao</b>, Yunhuai Liu, Yuanyuan Wu,
+<a href="https://patents.google.com/patent/CN103051401A/en">
+Cognitive Radio Spectrum Sensing based on Wavelet.</a>
+CN103051401A.
+</p>
+
+<p>
+Yunhuai Liu, <b>Yu Zhao</b>, Li Qi, Chuanping Hu,
+<a href="https://patents.google.com/patent/CN103257335A/en?oq=CN103257335A">
+An Indoor Localization Method under the Multipath Effect and Environment Noise.</a>
+CN103257335A.
+</p>
+
+<h2>Teaching</h2>
+<p class="style42"><b>Teaching Assistance</b></p>
+<li><a href="https://www.coursicle.com/uky/courses/CS/378/">
+CS 378 Introduction to Cryptology (Spring 2019)</a> 
+</li>
+<li><a href="http://voip.netlab.uky.edu/~fei/teaching/cs270/index.html">
+CS 270: Systems Programming (Fall 2018)</a> 
+</li>
+
+<p class="style42"><b>Guest Lecturer</b</p>
+
+<li><a href="https://uk.instructure.com/courses/1943648">
+CS 685/585: Adv Software Eng (Fall 2018)</a> 
+</li>
+
+<li><a href="https://uk.instructure.com/courses/1943648">
+CS498: Software Engineering For Senior Project (Fall 2017)</a> 
+</li>
+
+<h2>Open Source Software Projects</h2>
+<li>
+<a href="https://github.com/AndroidTestBugReport/ReCDroid">ReCDroid</a>
+Automatically Reproducing Android Application Crashes from Bug Reports
+</li>
+
+<li>
+<a href="https://github.com/AndroidTestBugReport/S2RMiner">S2RMiner</a>
+Automatically Extracting Bug Reproducing Steps from Android Bug Reports
+</li>
+
+<h2>Honors and Awards</h2>
+<li>Computer Science Department University of Kentucky, Outstanding Paper. 2 paper awarded in Dep, 2020</li>
+<li>Outstanding student volunteering service at the 41st International Conference on Software
+Engineering (ICSE 2019). 2019</li>
+<li>Student travel Awards: IEEE/ACM ICSE, 2019</li>
+<li>Computer Science Department University of Kentucky, Thaddeus B. Curtz Memorial Scholarship
+award. 0.14%, 2019.</li>
+<li>Honorable paper in International Conference on Cyber-enabled distributed computing. Top 1.7%,
+2015.</li>
+<li>The Shanghai International Technology & Trade United Co., Ltd Outstanding Employee. Top 5%,
+2015.</li>
+<li>Changchun University of Science and Technology, Social Practice Activities scholarship. Top 10%,
+2012.</li>
+<li>Shenzhen Institutes of Advanced Technology Chinese Academy of Sciences, Outstanding
+Research Scholarship. Top 10%, 2011.</li>
+<li>Jinlin university, Outstanding Graduation Thesis in B.S. degree. Top 15%, 2009.</li>
+
+<h2>Internal Reviewer</h2>
+
+COMPASAC 2020, ACMSE 2019, ACMSE 2020, Computer Networks
+
+</body></html>
