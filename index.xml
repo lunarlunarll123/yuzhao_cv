@@ -1,45 +1,17 @@
 <!DOCTYPE html>
 <html>
 <style>
-H1 {
-	FONT-SIZE: 28px; FONT-FAMILY: Arial, helvetica, sans-serif
-}
-H2 {
-	FONT-SIZE: 18px; BACKGROUND: #cbcba9; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif
-}
-H3 {
-	FONT-SIZE: 18px; BACKGROUND: #ddeef0; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif
-}
-H4 {
-	FONT-SIZE: 12px; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif; top-padding: .2em
-}
-
-H4 {
-	MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%
-}
-H3 {
-	MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%
-}
-H2 {
-	MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%
-}
-H1 {
-	MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%
-}
-
-li {
-font-weight: normal;
-}
-
-.style42 {
-	font-size: 17px;
-	
-}
-
-.style35 {
-	color: FF0000;
-	font-weight: bold;
-}
+	H1 {FONT-SIZE: 28px; FONT-FAMILY: Arial, helvetica, sans-serif}
+	H2 {FONT-SIZE: 18px; BACKGROUND: #cbcba9; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif}
+	H3 {FONT-SIZE: 18px; BACKGROUND: #ddeef0; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif}
+	H4 {FONT-SIZE: 12px; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif; top-padding: .2em}
+	H4 {MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%}
+	H3 {MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%}
+	H2 {MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%}
+	H1 {MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%}
+	li {font-weight: normal;}
+	.style42 {font-size: 17px;}
+	.style35 {color: FF0000; font-weight: bold;}
 </style>
 
 
