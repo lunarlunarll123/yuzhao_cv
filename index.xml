@@ -1,13 +1,38 @@
-<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN">
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Home Page of Yu Zhao</title>
-</head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0033)https://users.soe.ucsc.edu/~qian/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
+<title>Chen Qian</title>
+
 <style>
+A {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+#uvacshome-header {
+	PADDING-RIGHT: 5px; BORDER-BOTTOM: #00599c 2px solid; FONT-FAMILY: Verdana
+}
+#uvacshome-footer {
+	BORDER-TOP: #ccc 2px solid; FONT-SIZE: 9px; FONT-FAMILY: Verdana
+}
+#uvacshome-footer-table {
+	PADDING-RIGHT: 5px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 9px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #666666; PADDING-TOP: 0px
+}
+#uvacshome-searchbox {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 135px; PADDING-TOP: 0px; FONT-FAMILY: Verdana; HEIGHT: 19px
+}
+#uvacshome-searchbutton {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; WIDTH: 60px; PADDING-TOP: 0px; FONT-FAMILY: Verdana
+}
+#uvacshome-searchlinks {
+	PADDING-RIGHT: 5px; FONT-SIZE: 10px; FONT-FAMILY: Verdana; TEXT-ALIGN: right
+}
 H1 {
-	FONT-SIZE: 28px; FONT-FAMILY: Arial, helvetica, sans-serif
+	FONT-SIZE: 28px; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif
 }
 H2 {
-	FONT-SIZE: 18px; BACKGROUND: #cbcba9; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif
+	FONT-SIZE: 22px; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif
 }
 H3 {
 	FONT-SIZE: 18px; BACKGROUND: #ddeef0; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif
@@ -15,7 +40,26 @@ H3 {
 H4 {
 	FONT-SIZE: 12px; COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif; top-padding: .2em
 }
-
+H5 {
+	COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif; top-padding: .2em
+}
+TITLE {
+	COLOR: darkblue; FONT-FAMILY: Arial, helvetica, sans-serif
+}
+A:link {
+	COLOR: blue
+}
+A:visited {
+	COLOR: #990099}
+A:active {
+	COLOR: green
+}
+A:hover {
+	COLOR: red
+}
+BODY {
+	MARGIN: 2% 8%
+}
 H4 {
 	MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%
 }
@@ -28,179 +72,165 @@ H2 {
 H1 {
 	MARGIN-LEFT: 0%; MARGIN-RIGHT: 0%
 }
-
-li {
-font-weight: normal;
+.style2 {font-family: "Times New Roman", Times, serif}
+.style3 {font-family: "Times New Roman", Times, serif; font-size: 18px; }
+.style6 {font-size: 18px}
+.style10 {color: darkblue; }
+.style14 {font-family: "Times New Roman", Times, serif; font-size: 24px; }
+.style16 {font-family: Arial, Helvetica, sans-serif}
+.style32 {color: #003366}
+.style33 {font-family: "Times New Roman", Times, serif; font-size: 17px; }
+.style34 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
 }
-
-.style42 {
-	font-size: 17px;
-	
-}
-
 .style35 {
-	color: FF0000;
+	color: #FF00CC;
 	font-weight: bold;
 }
+.style36 {color: #FF0000}
+.style38 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #990066;
+	font-weight: bold;
+}
+.style42 {
+	font-size: 20px;
+	font-weight: bold;
+}
+.style46 {font-family: "Times New Roman", Times, serif; font-size: 20px; }
+.style56 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #330099;
+}
+.style57 {font-size: 24px; }
+.style58 {font-family: "Times New Roman", Times, serif; font-size: 18px; color: #0033FF; }
+.style60 {color: #990000}
+.style61 {font-family: "Times New Roman", Times, serif; font-size: 18px; color: #990000; }
 </style>
+<meta content="Microsoft FrontPage 3.0" name="GENERATOR">
+</head>
+
+<body bgcolor="#ffffff">
+
+<p align="center"><img height="240" alt="" hspace="9" src="./Chen Qian_files/face14.jpg" width="238" align="left" border="0"> </p>
+
+<hr noshade="" size="3">
+<p class="style14">Chen Qian </p>
+<p class="style42">Assistant Professor </p>
+<p><span class="style46"><span class="style16"><span class="style32"><a href="https://www.soe.ucsc.edu/departments/computer-science-and-engineering">Department of Computer Science and Engineering</a></span></span></span><span class="style46"><span class="style16"><span class="style32"><br>
+        <a href="https://www.soe.ucsc.edu/">Jack Baskin School of Engineering </a><br>
+      <a href="http://www.ucsc.edu/">University of California Santa Cruz</a></span></span></span></p>
+<p class="style57"><span class="style46"><a href="https://scholar.google.com/citations?user=QRxf7EUAAAAJ"><u>Google Scholar Profile</u></a></span></p>
+<hr noshade="" size="3">
+<span class="style2"><span class="style6"><span class="style16"><span class="style2"><st1:city w:st="on"><st1:placename w:st="on"></st1:placename></st1:city></span></span></span></span>
+<p class="style3">Email: cqian12 AT ucsc Dot edu <br>
+Office: 231 E2<br>
+Phone #: 831-459-5302</p>
+<h3>What's new </h3>
+
+<p class="style38">5/2020 Our quantum network routing paper accepted to SIGCOMM'20. The simulation code in Kotlin is <a href="https://github.com/sshi27/QuantumRouting">here</a>. </p>
+<p class="style38">3/2020 Ludo hashing accepted to SIGMETRICS'20. State-of-the-art key-value lookup method that minimizes memory cost. <a href="https://github.com/QianLabUCSC/Ludo">Try its code! </a></p>
+<p class="style38">12/2019 Three papers accepted to INFOCOM'20: universal multi-path cancellation for commercial RFID, and indexing data for edge computing </p>
+<p class="style38">9/2019 Paper accepted to VLDB'20. A more memory-efficient replacement for Bloom, Cuckoo, ... filters.<a href="https://github.com/QianLabUCSC/Vacuum-Filter"> Try its code! </a></p>
+<p class="style38">7/2019 4 Papers accpeted to ICNP'19</p>
+<p class="style38">5/2019 Paper about resolving server bottlenecks in cloud accpeted to USENIX ATC'19 </p>
+<p class="style38">3/2019 Paper about greedy routing in edge networks accepted to ICDCS'19 </p>
+<p class="style38">1/2019 Papers accepted to IoTDI and ToN</p>
+<h3>Teaching</h3>
+<p class="style38"><a href="https://courses.soe.ucsc.edu/courses/cmpe252a/Fall17/01"><u>Fall 2018</u></a>, <u>Fall 2017</u>:  CMPE252A: Computer Networks </p>
+<p class="style38"><a href="https://cmpe259-spring18-01.courses.soe.ucsc.edu/home"><u>Sping 2018</u></a>: CMPE259 Sensor Networks and Internet of Things </p>
+<p class="style38"><a href="https://cse253-winter20-01.courses.soe.ucsc.edu/home"><u>Winter 2020</u></a>, <a href="https://cmpe253-winter19-01.courses.soe.ucsc.edu/home"><u><u><u>Winter 2019</u>,</u></u></a> <a href="https://cmpe253-spring17-01.courses.soe.ucsc.edu/home"><u>Sping 2017</u></a>, : CMPE253 Network Security</p>
+<p class="style38"><a href="https://canvas.ucsc.edu/courses/24912"><u>Fall 2019,</u></a> <a href="https://canvas.ucsc.edu/courses/22594"><u>Spring 2019,</u></a> <a href="https://courses.soe.ucsc.edu/courses/cmpe150/Winter17/01"><u>Winter 2017,</u></a> <a href="https://cmpe150-winter18-01.courses.soe.ucsc.edu/home"><u>W2018</u></a>: CMPE150 Introduction To Computer Networks</p>
+<h3 class="style10">Education</h3>
+<p class="style33">I am an Associate Professor in the Department of Computer Science and Engineering at University of California Santa Cruz. I primarily work on the fundamental  problems of computer networks, systems, and security. I received the NSF CAREER Award in 2018. </p>
+<p class="style33">I was an assistant professor in the <a href="http://cs.uky.edu/">Department of Computer Science</a> at <a href="http://www.uky.edu/">University of Kentucky</a>, and a faculty member of the <a href="http://www.netlab.uky.edu/home">Laboratory for Advanced Networking</a> during 2013-2016.</p>
+<p class="style33">I received my Ph.D. in <a href="http://www.cs.utexas.edu/"> Computer Science</a> from <a href="http://wwwhost.cc.utexas.edu/"> University of Texas at Austin</a> in 2013. My advisor was <a href="http://www.cs.utexas.edu/users/lam"> Simon S. Lam</a>,  meaning  I am a part of the <a href="http://www.lk.cs.ucla.edu/index.html">Leonard Kleinrock</a>'s family <a href="http://genealogy.math.ndsu.nodak.edu/id.php?id=24334">tree</a>. I am the recipient of the <a href="http://www.cs.utexas.edu/~browne/">James C. Browne</a> Graduate<a href="http://endowments.giving.utexas.edu/page/browne-james-grad-flshp/3274/"> Fellowship</a> in 2012 (<a href="http://www.cs.utexas.edu/awards-honors/graduate-student-awards">list of Browne Fellowship awardees</a> for 2001-2012). I interned at <a href="http://www.research.att.com/editions/2012_08_17_home.html?fbid=YbO4ICfht3j">AT&amp;T Labs-Research</a> in May-Aug, 2012. I got my M.Phil. from <a href="http://www.cse.ust.hk/" class="style32">Department of Computer Science and Engineering</a> at <a href="http://www.ust.hk/">Hong Kong University of Science and Technology</a>, where  I worked with <a href="http://www.cs.ust.hk/~ni/"> Prof. Lionel M. Ni</a> (now Provost at HKUST), and also had close collaboration with <a href="http://www.cse.ust.hk/~liu/">Prof. Yunhao Liu </a>(now Chairperson of CS, Michigan State University).  I received my 
+    Bachelor's degree (highest honor) from <a href="http://cs.nju.edu.cn/">Department of 
+Computer Science</a>, <a href="http://www.nju.edu.cn/">Nanjing University</a> in 2006, under the supervision of <a href="http://cs.nju.edu.cn/teacher/show.aspx?id=1">Prof. Jiafu Xu</a>  and <a href="http://keysoftlab.nju.edu.cn/homepageold/personsfm.html">Prof. Fangmin Song</a>.</p>
+<p class="style33">I was born in Suzhou, Jiangsu, China.</p>
+<span class="style3"><o:p></o:p></span>
+<h3 class="style10">Research Projects <span class="style2"></span></h3>
+
+<o:p>
+<p class="style34">Computer networking, Internet of Things, Network Security, Edge and Cloud Computing, SDN/NFV, RFID, Mobile/Pervasive Computing, Quantum Networks, and Stroage Systems</p>
+<p class="style34"><em>NSF Funded Projects</em>: <a href="https://users.soe.ucsc.edu/~qian/projects/NeTSSmall2017.html"><u>CNS-1717948 (IoT)</u></a>, <a href="https://users.soe.ucsc.edu/~qian/projects/CAREER_Qian.html"><u>CNS-1750704</u></a> (NSF CAREER Award), CPS-1932447, CNS-1464335</p>
+<h3><span class="style10"><strong>Selected Publications: [<a href="https://users.soe.ucsc.edu/~qian/publication.html">full list</a>] </strong></span></h3>
+<p class="style56"><u>- If you only have time to take a look at a few  papers: </u></p>
+<p class="style3"><span class="style35">[SIGCOMM'20] </span>Concurrent Entanglement Routing for Quantum Networks: Model and Designs. <a href="https://github.com/sshi27/QuantumRouting">[Code of Quantum Entanglement Routing]</a> [<a href="https://users.soe.ucsc.edu/~qian/papers/QuantumRouting.pdf">pdf</a>]<span class="style60"><span class="style35"><em><br>
+</em></span>-- The first quantum network routing paper in top networking conferences. </span></p>
+<p class="style3"><span class="style35">[SIGMETRICS'20] </span>Ludo hashing. <a href="https://github.com/QianLabUCSC/Ludo">[Code of Ludo hashing]</a> [<a href="https://users.soe.ucsc.edu/~qian/papers/LudoHashing.pdf">pdf</a>]<span class="style35"><em><br>
+  </em>[ToN][ICNP'17][SIGMETRICS'17] </span>Othello hashing. <a href="https://github.com/QianLabUCSC/Othello">[Code of Othello hashing]</a> [<a href="https://users.soe.ucsc.edu/~qian/papers/Othello_2017.pdf">pdf</a>]<span class="style60"> <span class="style35"><em><br>
+</em></span>-- Ludo and Othello hashing are memory-efficient and ultra-fast key-value lookups for dynamic networks, distributed systems, and databases. Othello has also been used for</span><span class="style58"> <a href="https://users.soe.ucsc.edu/~qian/papers/SeqOthello.pdf"><u>scalable RNA-seq queries</u></a>. </span></p>
+<p class="style3"><span class="style35">[VLDB'20]</span> Vacuum Filters: More Space-Efficient and Faster Replacement for Bloom and Cuckoo Filters [<a href="https://github.com/QianLabUCSC/Vacuum-Filter">code</a>] [<a href="http://www.vldb.org/pvldb/vol13/p197-wang.pdf">pdf</a>] <span class="style61">-- Whenever you need Bloom or Cuckoo filters, replacing them with Vacuum filters will save memory cost and provide fast lookups. </span></p>
+<p class="style3"><span class="style35">[MobiCom'18][ToN]</span><span class="style35">[HotWireless]</span> HuFu (虎符): Towards Replay-resilient RFID Authentication. [<a href="https://users.soe.ucsc.edu/~qian/papers/HuFu-Mobicom18.pdf">pdf</a>] <span class="style60">-- HuFu was the first replay-resilient authentication method for commercial RFID tags. It was the first publication in MobiCom about RFID security. </span></p>
+<p class="style3"><span class="style35">[ToN][SIGMETRICS'11]</span> Geographic Routing in d-dimensional Spaces with Guaranteed Delivery and Low Stretch [<a href="https://users.soe.ucsc.edu/~qian/papers/MDT_TON_final.pdf">PDF</a>]  <span class="style58">-- <span class="style60">Geographic routing for wireless networks is a classical problem that has been studied for over 20 year. This work (MDT) is considered the best solution  according to a</span> <a href="https://arxiv.org/ftp/arxiv/papers/1603/1603.08462.pdf"><u>survery</u></a> <span class="style60">by</span> <a href="https://en.wikipedia.org/wiki/Raj_Jain"><u>Raj Jain</u></a>. <span class="style60">It is also among</span> <a href="https://www.cs.utexas.edu/people/faculty-researchers/simon-lam"><u>Simon Lam's top five picks</u></a><span class="style60">, together with</span> <a href="https://en.wikipedia.org/wiki/Secure_Network_Programming">Secure Networking Programming</a> <span class="style60">(first version of </span><a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">Secure Socket Layer</a><span class="style60">), Digital Signatures for Network Flows, and </span><a href="http://www.cs.utexas.edu/users/lam/NRL/Atomic_Predicates_Verifiers.html">Atomic Predicates</a>. </span></p>
+<p class="style3"><span class="style56"><u>Other selected papers</u>, most in top journals (ToN, TPDS, TMC, etc.) and top computer system/networking conferences with accept rates around 20% (SIGCOMM, INFOCOM, ICNP, MobiCom, ATC, CoNEXT, CCS, SIGMETRICS, ICDCS, NDSS, Ubicomp, PerCom, etc.)</span> </p>
+<p class="style3"><span class="style35">[INFOCOM]</span> A Fast Hybrid Data Sharing Framework for Hierarchical Mobile Edge Computing, in <em>Proc. of IEEE</em> <em>INFOCOM</em>, 2020. (Accept rate: 19.8%)</p>
+<p><span class="style3"><span class="style35">[INFOCOM]</span> An Universal Method to Combat Multipaths for RFID Sensing, in <em>Proc. of </em><em>IEEE</em> <em>INFOCOM</em>, 2020. (Accept rate: 19.8%)</span></p>
+<p class="style3"><span class="style35">[ICNP]</span> TagAttention: Mobile Object Tracing without Object Appearance Information by Vision-RFID Fusion, in <em>Proc. of IEEE</em> <em>ICNP</em>, 2019. (Accept rate: 30/212=14.2%)  [<a href="https://users.soe.ucsc.edu/~qian/papers/ICNP19-XShi.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[ICNP]</span> When Tags ‘Read’ Each Other:Enabling Low-cost and Convenient Tag Mutual Identification, in <em>Proc. of </em><em>IEEE</em> <em>ICNP</em>, 2019. (Accept rate: 30/212=14.2%) [<a href="https://users.soe.ucsc.edu/~qian/papers/ICNP19-Cai.pdf">pdf</a>] </p>
+<p class="style3"> <span class="style35">[ICNP]</span> Re-designing Compact-structure based Forwarding for Programmable Networks, in <em>Proc. of </em><em>IEEE</em> <em>ICNP</em>, 2019. (Accept rate: 30/212=14.2%)  [<a href="https://users.soe.ucsc.edu/~qian/papers/ICNP19-SShi.pdf">pdf</a>]</p>
+<p class="style3"><span class="style35">[ATC]</span>  PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing, in <em>Proc. of USENIX ATC,</em> 2019 [<a href="https://users.soe.ucsc.edu/~qian/papers/Postman-atc19.pdf">pdf</a>] (Accept rate: 71/352 = 20.2%)</p>
+<p class="style3"><span class="style35">[ICDCS]</span> Efficient Data Placement and Retrieval Services in Edge Computing,  in <em>Proc. of IEEE ICDCS,</em> 2019  [<a href="https://users.soe.ucsc.edu/~qian/papers/Edge-ICDCS19.pdf">pdf</a>] (Accept rate: 19.6%)</p>
+<p class="style3"><span class="style35">[IoTDI]</span> VERID: Towards Verifiable IoT Data Management, in <em>Proc. of ACM/IEEE IoTDI,</em> 2019 [<a href="https://users.soe.ucsc.edu/~qian/papers/VERID-IOTDI19.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[ToN] [IoTDI]</span> Towards Secure and Efficient Communication for the Internet of Things, in <em>IEEE/ACM Transactions on Networking</em>. also as An IoT Data Communication Framework for Authenticity and Integrity, In <em>Proc of ACM/IEEE IoTDI</em> 2017. [<a href="https://users.soe.ucsc.edu/~qian/papers/IoTDI17.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[INFOCOM]</span> Collaborative Validation of Public-Key Certificates for IoT by Distributed Caching, in <em>Proc. of IEEE INFOCOM,</em> 2019 [<a href="https://users.soe.ucsc.edu/~qian/papers/CCV_INFOCOM19.pdf">pdf</a>] (Accept rate: 288/1464 = 19.7%)</p>
+<p class="style3"><span class="style35">[INFOCOM]</span> Efficient Indexing Mechanism for Unstructured Data Sharing Systems in Edge Computing, in <em>Proc. of IEEE INFOCOM,</em> 2019  [<a href="https://users.soe.ucsc.edu/~qian/papers/Edge-infocom19.pdf">pdf</a>] (Accept rate: 288/1464 = 19.7%)</p>
+<p class="style3"><span class="style35">[HPCA]</span> String Figure: A Scalable and Elastic Memory Network Architecture, in <em>Proc. of IEEE HPCA,</em> 2019  [<a href="https://users.soe.ucsc.edu/~qian/papers/HPCA19.pdf">pdf</a>]  (Acceptance rate: 19.7%)</p>
+<p class="style3"><span class="style35">[Genome Biology]</span> SeqOthello: querying RNA-seq experiments at scale, in <em>Genome Biology</em>, 2018. (Impact factor: 16.5)  [<a href="https://users.soe.ucsc.edu/~qian/papers/SeqOthello.pdf">pdf</a>]</p>
+<p class="style3"><span class="style35">[TMC] [Ubicomp]</span> <span class="style35">[MSCC]</span> Echoscope: Verifiable Smart Packaging with Passive RFID [<a href="https://users.soe.ucsc.edu/~qian/papers/Ubicomp16_Wang.pdf">pdf</a>] <span class="style33"> <span class="style35">(Best Paper Award of ACM MSCC) </span></span></p>
+<p class="style3"><span class="style35">[TDSC]</span> <span class="style35">[ICNP]</span> SDN-based Privacy Preserving Cross Domain Routing <span class="style33"> [<a href="https://users.soe.ucsc.edu/~qian/papers/ICNP15_PYCRO.pdf">pdf</a>]</span></p>
+<p class="style3"><span class="style35">[ToN]</span><span class="style35">[CoNEXT]</span> Practical Network-wide Packet Behavior Identification by AP Classifier, in <em>IEEE/ACM Transactions on Networking</em>.  [<a href="https://users.soe.ucsc.edu/~qian/papers/HXu_ToN2017.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[CCS]</span> Instant and Robust Authentication and Key Agreement among Mobile Devices, in <em>Proc of ACM CCS </em> 2016. <span class="style33">Acceptance Rate: 16 </span>%. [<a href="https://users.soe.ucsc.edu/~qian/papers/TDS-CCS2016.pdf">pdf</a>]</p>
+<p class="style3"><span class="style35">[ToN]</span> <span class="style35">[ICNP]</span> Joint Route Selection and Update Scheduling for Low-Latency Update in SDNs.  [<a href="https://users.soe.ucsc.edu/~qian/papers/APClassification_ToN.pdf">pdf</a>]   <span class="style36">(Best paper finalist, fast track to ToN) </span></p>
+<p class="style3"><span class="style35">[TPDS][ICNP]</span> Space Shuffle: A Scalable, Flexible, and High-Bandwidth Data Center Network. [<a href="https://users.soe.ucsc.edu/~qian/papers/TPDS16.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[ICDCS]</span> Pronto: Efficient Test Packet Generation for Dynamic Network Data Planes, In <em>Proc of IEEE ICDCS</em> 2017, <span class="style33">Acceptance Rate: 16.9</span>%. [<a href="https://users.soe.ucsc.edu/~qian/papers/Pronto2017.pdf">pdf</a>]</p>
+<p class="style3"><span class="style35">[TMC] [ICDCS]</span> RFIPad: Enabling Cost-efficient and Device-free In-air Handwriting using Passive Tags,  In <em>Proc of IEEE ICDCS</em> 2017, <span class="style33">Acceptance Rate: 16.9</span>%. [<a href="https://users.soe.ucsc.edu/~qian/papers/RFIPad2017.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[NDSS]</span> FBS-Radar: Uncovering Fake Base Stations at Scale in the Wild. In <em>Proc of ISOC NDSS</em> 2017, <span class="style33">Acceptance Rate: 16</span>%. [<a href="https://users.soe.ucsc.edu/~qian/papers/NDSS17.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[Ubicomp] [TMC]</span>  Device-free Detection of Approach and Departure Behaviors using Backscatter Communication, in <em>Proc of ACM Ubicomp</em> 2016. <span class="style33">Acceptance Rate: 23</span>%. [<a href="https://users.soe.ucsc.edu/~qian/papers/Ubicomp16_Ding.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[ICDCS]</span> An NFV Orchestration Framework for Interference-free Policy Enforcement, in <em>Proc of IEEE ICDCS</em> 2016. <span class="style33">Acceptance Rate: 17</span>%. [<a href="https://users.soe.ucsc.edu/~qian/papers/Apple.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[INFOCOM]</span> VADS: Visual Attention Detection with a Smartphone, in <em>Proc of IEEE INFOCOM</em> 2016. <span class="style33">Acceptance Rate: 18</span>%. [<a href="https://users.soe.ucsc.edu/~qian/papers/INFOCOM16.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[ToN]</span> <span class="style35">[ICDCS]</span> Greedy Routing by Network Distance Embedding, [<a href="https://users.soe.ucsc.edu/~qian/papers/GDV_ToN.pdf">pdf</a>]</p>
+<p class="style3"><span class="style35">[ToN][INFOCOM] </span> Twins: Device-free Object Tracking using Passive Tags [<a href="https://users.soe.ucsc.edu/~qian/papers/Twins_ToN.pdf">pdf</a>]  </p>
+<p class="style3"><span class="style35">[ToN]</span> <span class="style35">[ICNP]</span> GenePrint: Generic and Accurate Physical-Layer Identification for UHF RFID Tags [<a href="https://users.soe.ucsc.edu/~qian/papers/Geneprint_ToN.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[ToN]</span> A Scalable and Resilient Layer-2 Network with Ethernet Compatibility, <em>IEEE /ACM Transactions on Networking</em> (ToN) 2016 [<a href="https://users.soe.ucsc.edu/~qian/papers/ROME_ToN_allinone.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[INFOCOM]</span> Low-Complexity Multi-Resource Packet Scheduling for Network Functions Virtualization, in <em>Proc of IEEE INFOCOM</em> 2015. <span class="style33">Acceptance Rate: </span>19%. [<a href="https://users.soe.ucsc.edu/~qian/papers/Myopia.pdf">pdf</a>] </p>
+<p class="style3"><span class="style35">[ICNP]</span> ROME: Routing On Metropolitan-scale Ethernet in <em>Proc of  IEEE</em><em> </em><em>ICNP</em>, 2012. <span class="style33">Acceptance Rate: 22.9% [<a href="https://users.soe.ucsc.edu/~qian/papers/ROME_ToN_allinone.pdf">PDF</a>] </span></p>
+<p class="style3"><span class="style35">[SIGMETRICS]</span> <span class="style35">[ToN]</span> <span class="style35">[ICNP'12 Keynote Speech]</span> Geographic Routing in d-dimensional Spaces with Guaranteed Delivery and Low Stretch, in <em>Proc of </em><em>ACM SIGMETRICS</em>, 2011. <span class="style33">Acceptance Rate: 14.7%</span>, <em>extended version in <em></em>IEEE /ACM Transactions on Networking</em> (ToN) [<a href="https://users.soe.ucsc.edu/~qian/papers/MDT_TON_final.pdf">PDF</a>] Simon Lam's keynote speach at IEEE ICNP 2012 about Multi-hop DT Routing [<a href="http://www.cs.utexas.edu/~lam/Simon_Lam_Lectures/Multi-hop_DT_2012_ICNP_Keynote_Simon_Lam.pptx">PPT</a>].</p>
+<p class="style3"><span class="style35"> </span><span class="style35">[PerCom'08]</span> Cardinality Estimation for Large-scale RFID Systems  in<em> <em>Proc of IEEE </em><em>IEEE PerCom</em></em>, 2008<em>. </em><span class="style33">Acceptance Rate: 11.9%. [<a href="https://users.soe.ucsc.edu/~qian/papers/TPDS_I_cqian.pdf">PDF</a>]</span><em>  <br>
+</em><span class="style35">[TPDS] </span> Longer version in <em>IEEE Transactions on Parallel and Distributed Systems</em> (TPDS), Sep. 2011. (<span class="style36">Spotlight Paper of TPDS </span>)</p>
+<h3><span class="style10"><strong>Students: </strong></span></h3>
+<p class="style56"><a href="https://users.soe.ucsc.edu/~archer/">Minmei Wang</a> (PhD 2017-) BS NUPT, MS Nanjing Univ </p>
+<p class="style56">Haofan Cai (PhD 2017-) BS SUSTech, UCSC Chancellor's Fellowship</p>
+<p class="style56"><a href="https://shouqianshi.space/">Shouqian Shi</a> (PhD 2017-) BS USTC</p>
+<p class="style56"><a href="https://users.soe.ucsc.edu/~xshi24/">Xiaofeng Shi</a> (PhD 2018-) BS Nanjing Univ, MS Nanjing Univ, UCSC Chancellor's Fellowship</p>
+<p class="style56">Minghao Xie (PhD 2018-) BS Sichuan Univ. Co-advised with Heiner Litz. </p>
+<p class="style56">Xiaoxue Zhang (PhD 2019-) BS USTC</p>
+<p class="style56"><u>Undergraduate researchers: </u></p>
+<p class="style56">Current: Robin Mathison, Jonne Kaunisto, Ian Pham, Melanie Wong</p>
+<p class="style56"><u>Fomer students with my supervision:</u></p>
+<p class="style56"><a href="https://yeyu.space/">Ye Yu </a>(PhD 2013-2018) <strong>Best PhD student Award</strong> at UKY. Now with Google. </p>
+<p class="style56"><a href="https://users.soe.ucsc.edu/~xinli/">Xin Li</a> (PhD 2013-2018) UCSC Dissertation Year Fellowship. Now with VMWare.</p>
+<p class="style56"><a href="https://users.soe.ucsc.edu/~hwang137/">Huazhe Wang</a> (PhD 2014-2019) Verizon Fellowship, UCSC Dissertation Year Fellowship. Now with Microsoft Azure </p>
+<p class="style56"><a href="https://wanggexjtu.wixsite.com/gewang">Ge Wang</a> (PhD 2014-2019) Now faculty at Xi'an Jiaotong University </p>
+<p class="style56">Yu Zhao (PhD@UKY 2016-) BS Jilin Univ, now mainly advised by Tingting Yu due to my departure from UKY. </p>
+<p class="style56">Sanjay Krishna Gouda, (MS  2018), now with BBN Technologies.</p>
+<p class="style56">Naishil Shah (MSc 2018) now with Cisco. </p>
+<p class="style56">Huimin Yan (MSc 2018) now with Microsoft.</p>
+<p class="style56">Jiayi Yang  (MSc 2018) now with Google.</p>
+<p class="style56">Jonathon Steelsmith  (BSc 2018), Vincent Kim (BSc 2018). Sean Gordon (BSc 2018), Masaya Takahashi (BSc 2018), Jose Sepulveda (BSc 2018). </p>
+<p class="style56">Yueqi Chen (BSc 2017), now PhD student at Penn State.</p>
+<p class="style3"><span class="style56">Wenzhi Cui (2013-2015), then PhD student at UT Austin, Now with Google</span></p>
+<p class="style3"><span class="style56">Bradley Pucket (BSc 2019), now with Amazon</span></p>
+<p class="style3">&nbsp;</p>
+<hr>
+<br>
+<span style="mso-bidi-font-weight: bold"><st1:city w:st="on"><st1:placename w:st="on"></st1:placename></st1:city></span>
 
 
-
-<!--BODY BGCOLOR="#88CCCC"-->
-<body bgcolor="#FFFFFF">
-
-<table><tbody><tr>
-<td width="45%">
-<img src="./Home Page of yuzhao_files/photo.jpg" align="left" alt="Yu Zhao" width="150" height="190">
-</td>
-<td>
-<h1>Yu Zhao</h1>
-<span class="style42"> Ph.D. Candidate <br>
-<a href="http://www.cs.uky.edu/">Department of Computer Science</a> <br>
-<a href="http://www.uky.edu/">University of Kentucky</a> <br> 
-Lexington, KY 40506<br><br>
-Email: yzh355 AT g.uky.edu <br>
-Phone: (859)693-2220<br>
-</td>
-</tr>
-</tbody></table>
-
-
-
-
-<h2>About Me</h2>
-
-
-<p ><span class="style42"> 
-My research interests include <b>Software Testing</b>, Natural Language Processing, Deep/Reinforcement Learning, Computer Networks, Wireless Sensor Network, Indoor localization. 
-</p>
-
-<p><span class="style42"> 
-I am under the supervision of Dr. <a href="http://cs.uky.edu/~tyu/">Tingting Yu</a> and Dr. <a href="https://users.soe.ucsc.edu/~qian/">Chen Qian</a>. Here is my CV. [<a href="./Home Page of yuzhao_files/cv.pdf">pdf</a>]
-</p>
-
-<h2>Conference Publications</h2>
-<p class="style3"><span class="style35">[ICSE'19] </span> <b>Yu Zhao</b>, Tingting Yu, Ting Su, Yang Liu, Wei Zheng, Jingzhi Zhang, William G.J. Halfond,
- <a href="https://dl.acm.org/doi/10.1109/ICSE.2019.00030"> 
- ReCDroid: Automatically Reproducing Android Application Crashes from Bug Reports,</a>
- In IEEE/ACM International Conference on Software Software Engineering 2019.</span>[<a href="./Home Page of yuzhao_files/recdroid.pdf">pdf</a>] </p>
-
-<p class="style3"><span class="style35">[ICSR'19] </span> <b>Yu Zhao</b>, Kye Miller, Tingting Yu, Wei Zheng, Minchao Pu, 
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-22888-0_8">
-Automatically Extracting Bug Reproducing Steps from Android Bug Reports,</a>
-In IEEE/ACM International Conference on Software Software Engineering  2019.</span>[<a href="./Home Page of yuzhao_files/ICSR.pdf">pdf</a>] </p>
-
-<p class="style3"><span class="style35">[ICDCS'17] </span> <b>Yu Zhao</b>, Huazhe Wang, Xin Li, Tingting Yu, Chen Qian, 
-<a href="https://ieeexplore.ieee.org/document/7979951">
-Pronto: Efficient Test Packet Generation for Dynamic Network Data Planes,</a>
-In IEEE International Conference on Distributed Computing Systems, 2017.</span>[<a href="./Home Page of yuzhao_files/Pronto2017.pdf">pdf</a>] </p>
-
-<p class="style3"><span class="style35">[ICCCN'17] </span> <b>Yu Zhao</b>, Tingting Yu, 
-<a href="https://ieeexplore.ieee.org/document/8038454">
-Channel Quality Correlation-based Channel Probing in Multiple Channels,</a>
-In IEEE International Conference on Computer Communications and Networks, 2017.</span>[<a href="./Home Page of yuzhao_files/ICCCN.pdf">pdf</a>] </p>
-
-<p class="style3"><span class="style35">[CyberC'15] </span> Yuanyuan Wu, <b>Yu Zhao</b>, Yunhuai Liu, 
-<a href="https://ieeexplore.ieee.org/document/7307861">
-Channel Adjustment for Performance Enhancement in Wireless Networks,</a>
-In IEEE International Conference on Cyber-enabled distributed computing, 2015.</span>[<a href="./Home Page of yuzhao_files/cyberc.pdf">pdf</a>] </p>
-
-<p class="style3"><span class="style35">[ICALIP'14] </span> <b>Yu Zhao</b>, Yuanyuan Wu, Jiang Wang, Xuexia Zhong, Lin Mei,
-<a href="https://ieeexplore.ieee.org/document/7009857">
- Wavelet Transform for Spectrum Sensing in Cognitive Radio Networks,</a>
-In IEEE International Conference on Audio, Language and Image Processing, 2014. </p>
-
-<p class="style3"><span class="style35">[INFOCOM'13] </span> <b>Yu Zhao</b>, Yunhuai Liu, Tian He, Athanasios V. Vasilakosy, Chuanping Hu,
-<a href="https://ieeexplore.ieee.org/abstract/document/6566824">
-FREDI: Robust RSS-based Ranging with Multipath Effect and Radio Interference,</a>
-In IEEE International Conference on Computer Communications, 2013.
-</span>[<a href="./Home Page of yuzhao_files/Fredi.pdf">pdf</a>] </p>
-
-
-<h2>Journal Publications</h2>
-
-<p class="style3"> </span> <b>Yu Zhao</b>, Yunhuai Liu, Tingting Yu, Chen Qian, Tian He, 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1389128618310223">
-FREDI: Robust RSS-based Ranging with Multipath Effect and Radio Interference,</a>
-In Computer Networks, 2018.</span>[<a href="./Home Page of yuzhao_files/networks.pdf">pdf</a>] </p>
-
-<p class="style3"> </span> Jie Dai, <b>Yu Zhao</b>, Yunhuai Liu, Li Qi, Chuanping Hu,
-<a href="https://link.springer.com/article/10.1007/s11227-014-1231-9">
-Cloud-assisted Analysis for Energy Efficiency in Intelligent Video Systems,</a>
-Jie Dai, Yu Zhao, Yunhuai Liu, Li Qi, Chuanping Hu.
-In Journal of Supercomputing, 2014, 
-
-<h2>Workshop Publications</h2>
-
-<p class="style3"> </span> <b>Yu Zhao</b>, Tarannum Shaila Zaman, Tingting Yu, Jane Huffman Haye, 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1389128618310223">
-Using Deep Learning to Improve the Accuracy of Requirements to Code Traceability,</a>
-In Grand Challenges in Traceability (GCT), Abstract, 2017.</span>[<a href="./Home Page of yuzhao_files/workshop.pdf">pdf</a>] </p>
-
-<h2>Patents</h2>
-<p>
-<b>Yu Zhao</b>, Yunhuai Liu, Yuanyuan Wu,
-<a href="https://patents.google.com/patent/CN103051401A/en">
-Cognitive Radio Spectrum Sensing based on Wavelet.</a>
-CN103051401A.
-</p>
-
-<p>
-Yunhuai Liu, <b>Yu Zhao</b>, Li Qi, Chuanping Hu,
-<a href="https://patents.google.com/patent/CN103257335A/en?oq=CN103257335A">
-An Indoor Localization Method under the Multipath Effect and Environment Noise.</a>
-CN103257335A.
-</p>
-
-<h2>Teaching</h2>
-<p class="style42"><b>Teaching Assistance</b></p>
-<li><a href="https://www.coursicle.com/uky/courses/CS/378/">
-CS 378 Introduction to Cryptology (Spring 2019)</a> 
-</li>
-<li><a href="http://voip.netlab.uky.edu/~fei/teaching/cs270/index.html">
-CS 270: Systems Programming (Fall 2018)</a> 
-</li>
-
-<p class="style42"><b>Guest Lecturer</b</p>
-
-<li><a href="https://uk.instructure.com/courses/1943648">
-CS 685/585: Adv Software Eng (Fall 2018)</a> 
-</li>
-
-<li><a href="https://uk.instructure.com/courses/1943648">
-CS498: Software Engineering For Senior Project (Fall 2017)</a> 
-</li>
-
-<h2>Open Source Software Projects</h2>
-<li>
-<a href="https://github.com/AndroidTestBugReport/ReCDroid">ReCDroid</a>
-Automatically Reproducing Android Application Crashes from Bug Reports
-</li>
-
-<li>
-<a href="https://github.com/AndroidTestBugReport/S2RMiner">S2RMiner</a>
-Automatically Extracting Bug Reproducing Steps from Android Bug Reports
-</li>
-
-<h2>Honors and Awards</h2>
-<li>Computer Science Department University of Kentucky, Outstanding Paper. 2 paper awarded in Dep, 2020</li>
-<li>Outstanding student volunteering service at the 41st International Conference on Software
-Engineering (ICSE 2019). 2019</li>
-<li>Student travel Awards: IEEE/ACM ICSE, 2019</li>
-<li>Computer Science Department University of Kentucky, Thaddeus B. Curtz Memorial Scholarship
-award. 0.14%, 2019.</li>
-<li>Honorable paper in International Conference on Cyber-enabled distributed computing. Top 1.7%,
-2015.</li>
-<li>The Shanghai International Technology & Trade United Co., Ltd Outstanding Employee. Top 5%,
-2015.</li>
-<li>Changchun University of Science and Technology, Social Practice Activities scholarship. Top 10%,
-2012.</li>
-<li>Shenzhen Institutes of Advanced Technology Chinese Academy of Sciences, Outstanding
-Research Scholarship. Top 10%, 2011.</li>
-<li>Jinlin university, Outstanding Graduation Thesis in B.S. degree. Top 15%, 2009.</li>
-
-<h2>Internal Reviewer</h2>
-
-COMPASAC 2020, ACMSE 2019, ACMSE 2020, Computer Networks
-
-</body></html>
+</o:p></body></html>
