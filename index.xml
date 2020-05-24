@@ -19,21 +19,26 @@
 <!--BODY BGCOLOR="#88CCCC"-->
 <body bgcolor="#FFFFFF">
 
-<table><tbody><tr>
-<td width="45%">
-	<img src="./Home Page of yuzhao_files/photo.jpg" align="left" alt="Yu Zhao" width="150" height="190">
-</td>
-<td>
-	<h1>Yu Zhao</h1>
-	<span class="style42"> Ph.D. Candidate <br>
-		<a href="http://www.cs.uky.edu/">Department of Computer Science</a> <br>
-		<a href="http://www.uky.edu/">University of Kentucky</a> <br> 
-		Lexington, KY 40506<br><br>
-		Email: yzh355 AT g.uky.edu <br>
-		Phone: (859)693-2220<br>
-</td>
-</tr>
-</tbody></table>
+<table>
+	<tbody>
+		<tr>
+			<td width="45%">
+				<img src="./Home Page of yuzhao_files/photo.jpg" align="left" alt="Yu Zhao" width="150" height="190">
+			</td>
+				
+			<td>
+				<h1>Yu Zhao</h1>
+				<span class="style42"> Ph.D. Candidate <br>
+					<a href="http://www.cs.uky.edu/">Department of Computer Science</a> <br>
+					<a href="http://www.uky.edu/">University of Kentucky</a> <br> 
+					Lexington, KY 40506<br><br>
+					Email: yzh355 AT g.uky.edu <br>
+					Phone: (859)693-2220<br>
+				<\span>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 
